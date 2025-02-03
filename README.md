@@ -2,7 +2,7 @@
 <br/>
 <h3 align="center">About me</h3>
 
-<h4 align="center">📚 I'm currently learning Flutter<br>🎯 I aim to become a Mythical Glory in Mobile Legends<br>🎲 I listen, look, listen and learn.</h4>
+<h4 align="center">📚 I'm currently learning how to learn<br>🎯 I aim to become a Mythical Immortal in Mobile Legends<br>🎲 I listen, look, listen and learn.</h4>
 
 ###
 <br/>
